@@ -23,7 +23,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../FirstTag/out/artifacts/FirstTag_jar/FirstTag.jar!/" />
+          <root url="jar://$MODULE_DIR$/../20151019_FirstTag/out/artifacts/FirstTag/FirstTag.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

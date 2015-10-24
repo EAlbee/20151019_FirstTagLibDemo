@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="FirstTagLibDemo:war exploded">
+  <artifact type="exploded-war" build-on-make="true" name="FirstTagLibDemo:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/FirstTagLibDemo_war_exploded</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="FirstTagLibDemo/web/Web" />
@@ -8,7 +8,7 @@
           <element id="module-output" name="FirstTagLibDemo" />
         </element>
         <element id="directory" name="lib">
-          <element id="file-copy" path="$PROJECT_DIR$/../FirstTag/out/artifacts/FirstTag_jar/FirstTag.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../20151019_FirstTag/out/artifacts/FirstTag/FirstTag.jar" />
         </element>
       </element>
     </root>

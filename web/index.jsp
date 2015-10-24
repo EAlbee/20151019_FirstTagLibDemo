@@ -13,5 +13,6 @@
   </head>
   <body>
     <ex:Hello />
+    <ex:Welcome />
   </body>
 </html>
